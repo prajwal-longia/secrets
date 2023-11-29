@@ -6,7 +6,7 @@ const ejs = require("ejs");
 const mongoose = require('mongoose');
 const { ObjectId } = require("mongoose");
 
-const homeStartingContent = "Welcome to Secrets, a sanctuary for anonymous storytelling. Dive into a world of untold tales and raw confessions where anonymity unlocks the freedom to share your most intimate experiences, unshackled from identity constraints. Join our community to share, connect, and explore the depth of human narratives, unbound by judgment or disclosure.";
+const homeStartingContent = "Welcome to IncognoTales, a sanctuary for anonymous storytelling. Dive into a world of untold tales and raw confessions where anonymity unlocks the freedom to share your most intimate experiences, unshackled from identity constraints. Join our community to share, connect, and explore the depth of human narratives, unbound by judgment or disclosure.";
 const aboutContent = "This website was made for my final year project in college. It is nothing fancy but is something I enjoyed creating. It is made using Node.js as the backend and Database used is MongoDB .";
 const contactContent = "Get in Touch with me. I'm delighted to hear from you! Whether you have a question, a suggestion, or just want to share your thoughts, I'm here to listen. For general questions or feedback about my webpage, please feel free to reach out to me at : email : info@mydiary.com phone: 923-547-xxxx . :)";
 
